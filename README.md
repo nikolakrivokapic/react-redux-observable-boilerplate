@@ -1,4 +1,4 @@
-# React+Redux+Redux-Observable+Jest+Enzyme Sim Boilerplate
+# React+Redux+Redux-Observable+Styled-Components+Jest+Enzyme Sim Boilerplate
 
 ## Quick Start
 

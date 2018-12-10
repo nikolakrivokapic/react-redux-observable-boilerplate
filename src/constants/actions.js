@@ -6,5 +6,4 @@ export default {
     SET_DECK_ID: 'Set Deck Id',
     SET_CARDS: 'Set Cards',
     CHANGE_LOGO_BACKGROUND_COLOR: 'Change Background Color',
-    SYNC_FROM_CAPI: 'Sync From Capi',
 };
